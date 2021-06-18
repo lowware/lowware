@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**lowware/lowware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learn Kubernetes
+  - 参考
+    - 📖 [官方网站](https://kubernetes.io/)
+    - 📖 [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+  - 图书
+    - 📗 [Mastering Kubernetes](https://www.packtpub.com/virtualization-and-cloud/mastering-kubernetes)
+    - 📗 [Kubernetes in Action](http://www.manning.com/books/kubernetes-in-action)
+    - 📗 [Kubernetes 中文指南](https://jimmysong.io/kubernetes-handbook/)
+    - 📘 [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit)
+    - 📘 [The DevOps 2.4 Toolkit: Continuous Deployment To Kubernetes](https://leanpub.com/the-devops-2-4-toolkit)
+    - 📘 [The DevOps 2.5 Toolkit: Monitoring, Logging, and Auto-Scaling Kubernetes](https://leanpub.com/the-devops-2-5-toolkit)
+    - 📘 [深入剖析 Kubernetes](https://time.geekbang.org/column/intro/100015201)
+  - 课程
+    - 📕 [Katacoda](https://www.katacoda.com/courses/kubernetes)
+    - 📗 [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
+    - 📗 [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine)
+    - 📘 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+  - 博客
+    - 📖 [官方博客](https://kubernetes.io/blog/)
